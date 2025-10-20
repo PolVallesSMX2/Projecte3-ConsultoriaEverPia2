@@ -43,7 +43,15 @@ Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les cont
 2. **Iniciar sessió:**
    - Introduïu el vostre correu electrònic i la contrasenya mestre.
    - Feu clic a "Iniciar sessió".
-![Inici de sessió a la web](img/bitwarden1.png)
+
+<br>
+<div align=center>
+  <img
+    src="img/bitwarden1.png"
+    alt="Inici de sessió a la web"
+    width="600"
+    height="600" />
+</div>
 
 ---
 
@@ -65,7 +73,14 @@ Des de la interface web, podeu:
 - A l’extensió del navegador, quan visitis una pàgina de login, Bitwarden proposarà emplenar automàticament la informació.
 - També podeu crear, veure i copiar credencials des de la interfície web si cal.
 
-![Afegir credencials](img/bitwarden2.png)
+<br>
+<div align=center>
+  <img
+    src="img/bitwarden2.png"
+    alt="Afegir credencials"
+    width="600"
+    height="600" />
+</div>
 
 ---
 
@@ -80,7 +95,14 @@ Des de la interface web, podeu:
    - Conserveu la còpia en una clau USB xifrada o en un servei de núvol amb xifratge i control d’accés.
    - No deixeu còpies sense protecció ni en llocs accessibles públicament.
 
-![Exportació de la boveda](img/bitwarden3.png)
+<br>
+<div align=center>
+  <img
+    src="img/bitwarden3.png"
+    alt="Exportació de la boveda"
+    width="600"
+    height="600" />
+</div>
 
 ---
 
