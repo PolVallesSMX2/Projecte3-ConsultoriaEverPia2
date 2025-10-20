@@ -1,5 +1,4 @@
 # T01: Gestor de contrasenyes
----
   
 Alerta!! EverPia ha estat atacada per ciberdelinqüents. La consultora on esteu de becaris ha patit una fuita d’informació (data breach) i informació confidencial sobre un projecte que està en fase de desenvolupament està ara en mans de delinqüents que amenacen amb publicar-la si no es paga un rescat.
 Òbviament, això ha causat una gran alarma dins la companyia i s’ha creat un comitè de crisi per gestionar la situació. 
@@ -39,4 +38,8 @@ Es tracta d’una tasca **individual**. Què caldrà lliurar? Dins el repositori
 - Pàgina oficial de [Bitwarden](https://bitwarden.com)
 - Pàgina oficial de [KeePassXc](https://keepassxc.org/)
 - INCIBE: [Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/empresas/blog/gestores-de-contrasenas-que-son-y-como-pueden-mejorar-la-seguridad-de-las-empresas)
+
+## Solució
+Pots veure la solució aquí: [solucio.md](solucio.md)  
+📍 [Tornar a la pàgina del projecte](../README.md)
 
