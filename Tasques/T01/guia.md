@@ -82,3 +82,6 @@ Pots gestionar de manera segura i còmoda les contrasenyes amb la web de Bitward
 ---
 
 **Nota:** Assegureu-vos que cada captura de pantalla sigui clara i visible, i que s’incorpori a la carpeta `img/`. Sigui com sigui, aquestes imatges es poden obtenir fent captures de pantalla del vostre entorn amb els passos indicats.
+
+🔙 [Tornar a la tasca](README.md)  
+📍 [Tornar a la pàgina del projecte](../../README.md)

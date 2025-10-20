@@ -26,3 +26,6 @@ Les contrasenyes febles o reutilitzades representen un risc crític per a l’em
 
 **Recomanació**  
 Per al personal tècnic de l’empresa, es recomana l’ús de Bitwarden per la seva combinació equilibrada entre seguretat avançada i facilitat d’ús. La seva arquitectura basat en xifratge end-to-end i la possibilitat de sincronitzar contrasenyes de forma segura en múltiples dispositius faciliten una gestió més eficaç i segura de les credencials. Alhora, ofereix eines d’administració corporativa i compliment normatiu que reforcen la seguretat globals de l’empresa. Això ajuda a mitigar riscos crítics derivats de contrasenyes febles o reutilitzades. No obstant això, cal implementar bones pràctiques en formació de l’usuari i control d’accés per maximitzar la protecció.
+
+🔙 [Tornar a la tasca](README.md)  
+📍 [Tornar a la pàgina del projecte](../../README.md)
