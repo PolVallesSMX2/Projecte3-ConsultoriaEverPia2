@@ -1,4 +1,4 @@
-# Solució
+<img width="732" height="670" alt="image" src="https://github.com/user-attachments/assets/9724dfce-e12b-466a-80ae-8c49a924842e" /># Solució
 ## Anàlisi i Justificació (Document d'Informe)  
 Les contrasenyes febles o reutilitzades representen un risc crític per a l’empresa ja que faciliten atacs informàtics com els atacs de diccionari i el credential stuffing. Aquests atacs exploten la reutilització massiva de contrasenyes filtrades en bases de dades públiques, permetent accedir a múltiples comptes amb la mateixa credencial robada. Això pot comportar pèrdues econòmiques, d’informació sensible i d’imatge corporativa. Per evitar-ho, és essencial que el personal utilitzi contrasenyes robustes i úniques per a cada servei. Un gestor de contrasenyes juga un paper crucial perquè permet generar, emmagatzemar i gestionar de forma segura contrasenyes complexes i diferents per a cada compte, eliminant la necessitat de recordar-les i reduint la probabilitat d’ús de contrasenyes.
 
@@ -31,7 +31,7 @@ Per al personal tècnic de l’empresa, es recomana l’ús de Bitwarden per la 
 ## Fase 2: Guia d'Ús Tècnica de Bitwarden per a l'Equip Tècnic
 
 **Introducció**
-Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les contrasenyes de manera segura utilitzant la versió web de Bitwarden. També s'indica com ampliar la funcionalitat mitjançant la instal·lació de l'aplicació d'escriptori o l'extensió del navegador per facilitar-ne l'ús diari.
+Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les contrasenyes de manera segura utilitzant la versió web de Bitwarden. Aquesta eina te complements com extensions web i també pot ser usada des d'aplicacions d'escriptori.
 
 ---
 
@@ -43,64 +43,33 @@ Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les cont
 2. **Iniciar sessió:**
    - Introduïu el vostre correu electrònic i la contrasenya mestre.
    - Feu clic a "Iniciar sessió".
-   - ![Inici de sessió a la web](img/web-login.png)
+![Inici de sessió a la web](img/bitwarden1.png)
 
 ---
 
-## Instal·lació de l’Aplicació d’Escritori o Extensió de Navegador
+**Funcionament amb la web i opcions addicionals**
 
-Per facilitar l’emplenament automàtic i la gestió de contrasenyes, podeu instal·lar:
+Des de la interface web, podeu:
 
-- L’**aplicació d’escriptori** (disponible per Windows, Mac i Linux).
-- L’**extensió de navegador** (per Chrome, Firefox, Edge, etc.).
+- **Afegir noves credencials:** cliqueu a "Afegeix un element" i trieu "Inici de sessió". Ompliu els camps amb la URL, usuari i contrasenya, que podeu generar a la mateixa eina.
+- **Editar o eliminar credencials:** simplement seleccionant l’entrada i fent clic a editar o eliminar.
 
-**Per fer-ho:**
-
-1. Des de la pàgina oficial de [Bitwarden](https://bitwarden.com/downloads/), descarregueu l’aplicació d’escriptori segons el vostre sistema operatiu.
-2. Des de la botiga d’extensions del vostre navegador, busqueu i instal·leu l’extensió de Bitwarden.
-3. Autentiqueu-vos amb el vostre compte existent.
-
-### Imatges suggerides:
-- Captura de la pàgina de descàrrega de l'aplicació
-- Imatge de l'extensió instal·lada en el navegador
-
----
-
-## Funcionament amb la web i opcions addicionals
-
-### Usar la web per gestionar contrasenyes
-
-- Des de la interface web, podeu:
-
-  - **Afegir noves credencials:** cliqueu a "Afegeix un element" i trieu "Inici de sessió". Ompliu els camps amb la URL, usuari i contrasenya, que podeu generar a la mateixa eina.
-  - **Editar o eliminar credencials:** simplement seleccionant l’entrada i fent clic a editar o eliminar.
-
-### Generació de contrasenyes segures
+**Generació de contrasenyes segures**
 
 - Des del web, cliqueu a "Generador de contrasenyes".
 - Configureu la longitud i els paràmetres (majúscules, minúscules, números i caràcters especials).
 - Copieu la contrasenya i deseu-la dins la vostra credencial.
 
-### Afegir credencials i emplenar automàticament
+**Afegir credencials i emplenar automàticament**
 
 - A l’extensió del navegador, quan visitis una pàgina de login, Bitwarden proposarà emplenar automàticament la informació.
 - També podeu crear, veure i copiar credencials des de la interfície web si cal.
 
----
-
-## Emplenament automàtic des de la extensió del navegador
-
-1. **Accediu a la pàgina de login del servei web.**
-2. **Cliqueu en la icona de Bitwarden del navegador.**
-3. **Seleccioneu la credencial corresponent o utilitzeu “Emplenar” per omplir automàticament.**
-4. **Per a crear noves credencials, cliqueu a "Afegeix un element" i ompliu les dades.**
-
-### Imatge suggerida:
-- Captura del menú d’emplenament automàtic en navegador
+![Afegir credencials](img/bitwarden2.png)
 
 ---
 
-## Gestió de Còpies de Seguretat (Backup)
+**Gestió de Còpies de Seguretat (Backup)**
 
 1. **Exportació de dades:**
    - A la web, entreu a "Configuració" > "Exportar bóveda".
@@ -111,8 +80,7 @@ Per facilitar l’emplenament automàtic i la gestió de contrasenyes, podeu ins
    - Conserveu la còpia en una clau USB xifrada o en un servei de núvol amb xifratge i control d’accés.
    - No deixeu còpies sense protecció ni en llocs accessibles públicament.
 
-### Imatge suggerida:
-- Pantalla d'exportació de la bóveda
+![Exportació de la boveda](img/bitwarden3.png)
 
 ---
 
