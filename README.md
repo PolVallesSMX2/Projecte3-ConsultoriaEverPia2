@@ -70,3 +70,7 @@ Benvinguts a EverPia 2: “Sobreviure en una empresa IT” El foc ja està encè
 # Tasques
 
 [Tasca01](Tasca01/README.md)
+
+# Carpetes Personals
+
+[Drive personal del projecte](https://drive.google.com/drive/folders/1-460mOjZEd4gmObh-AyApSnUZJARfQWx?usp=sharing)
