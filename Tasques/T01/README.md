@@ -40,5 +40,6 @@ Es tracta d’una tasca **individual**. Què caldrà lliurar? Dins el repositori
 - INCIBE: [Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/empresas/blog/gestores-de-contrasenas-que-son-y-como-pueden-mejorar-la-seguridad-de-las-empresas)
 
 ## Solució
-Pots veure la solució aquí: [solucio.md](solucio.md)  
+Pots veure el informe aquí: [informe.md](informe.md)  
+Pots veure la guía aquí: [guia.md](guia.md)  
 📍 [Tornar a la pàgina del projecte](../README.md)
