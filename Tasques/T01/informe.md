@@ -1,5 +1,5 @@
 # Anàlisi i Justificació (Document d'Informe)  
-Les contrasenyes febles o reutilitzades representen un risc crític per a l’empresa ja que faciliten atacs informàtics com els atacs de diccionari i el credential stuffing. Aquests atacs exploten la reutilització massiva de contrasenyes filtrades en bases de dades públiques, permetent accedir a múltiples comptes amb la mateixa credencial robada. Això pot comportar pèrdues econòmiques, d’informació sensible i d’imatge corporativa. Per evitar-ho, és essencial que el personal utilitzi contrasenyes robustes i úniques per a cada servei. Un gestor de contrasenyes juga un paper crucial perquè permet generar, emmagatzemar i gestionar de forma segura contrasenyes complexes i diferents per a cada compte, eliminant la necessitat de recordar-les i reduint la probabilitat d’ús de contrasenyes.
+🔐 Les contrasenyes febles o reutilitzades representen un risc crític per a l’empresa ja que faciliten atacs informàtics com els atacs de diccionari i el credential stuffing. Aquests atacs exploten la reutilització massiva de contrasenyes filtrades en bases de dades públiques, permetent accedir a múltiples comptes amb la mateixa credencial robada. Això pot comportar pèrdues econòmiques, d’informació sensible i d’imatge corporativa. Per evitar-ho, és essencial que el personal utilitzi contrasenyes robustes i úniques per a cada servei. Un gestor de contrasenyes juga un paper crucial perquè permet generar, emmagatzemar i gestionar de forma segura contrasenyes complexes i diferents per a cada compte, eliminant la necessitat de recordar-les i reduint la probabilitat d’ús de contrasenyes.
 
 | Característica             | Bitwarden (Online/Núvol)                                             | KeePassX/KeePassXC (Offline/Escriptori)                        |
 |---------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|
@@ -12,7 +12,7 @@ Les contrasenyes febles o reutilitzades representen un risc crític per a l’em
 | Actualitzacions i manteniment | Automàtic i reposat en equip de desenvolupament                   | Comunitat open source, actualitzacions depenen de voluntaris   |
 
 
-**Avantatges i Inconvenients**
+**⚖️ Avantatges i Inconvenients**
 
 - Bitwarden
 
