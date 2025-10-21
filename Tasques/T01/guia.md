@@ -29,31 +29,15 @@ Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les cont
 
 Des de la interface web, podeu:
 
-- **Afegir noves credencials:** cliqueu a "Afegeix un element" i trieu "Inici de sessió". Ompliu els camps amb la URL, usuari i contrasenya, que podeu generar a la mateixa eina.
-
-<div align=center>
-  <img
-    src="img/crearIniciSessio.png"
-    alt="Crear credencials"
-    width="600"
-    height="600" />
-</div>
-
-- **Editar o eliminar credencials:** simplement seleccionant l’entrada i fent clic a editar o eliminar.
-
-<div align=center>
-  <img
-    src="img/modificar_credencials.png"
-    alt="Crear credencials"
-    width="600"
-    height="600" />
-</div>
+- **Afegir noves credencials:** cliqueu a "Afegeix un element" i trieu "Inici de sessió". Ompliu els camps amb la URL, usuari i contrasenya, que podeu generar a la mateixa eina. [Imatge de suport](img/crearIniciSessio.png)
+- **Editar o eliminar credencials:** simplement seleccionant l’entrada i fent clic a editar o eliminar. [Imatge de suport](img/modificar_credencials.png)
 
 **Generació de contrasenyes segures**
 
 - Des del web, cliqueu a "Generador de contrasenyes".
 - Configureu la longitud i els paràmetres (majúscules, minúscules, números i caràcters especials).
 - Copieu la contrasenya i deseu-la dins la vostra credencial.
+- [Imatge de suport](img/generador_contrasenya.png)
 
 **Afegir credencials i emplenar automàticament**
 
