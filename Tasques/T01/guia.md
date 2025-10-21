@@ -37,7 +37,7 @@ Des de la interface web, podeu:
 - Des del web, cliqueu a "Generador de contrasenyes".
 - Configureu la longitud i els paràmetres (majúscules, minúscules, números i caràcters especials).
 - Copieu la contrasenya i deseu-la dins la vostra credencial.
-- <a href="img/generador_contrasenya.png" target="_blank">Veure imatge de suport</a>
+- [Imatge de suport](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T01/img/generador_contrasenya.png)
 
 **Afegir credencials i emplenar automàticament**
 
