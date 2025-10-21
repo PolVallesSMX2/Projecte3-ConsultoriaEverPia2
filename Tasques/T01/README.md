@@ -42,4 +42,4 @@ Es tracta d’una tasca **individual**. Què caldrà lliurar? Dins el repositori
 ## Solució
 📰 Pots veure el informe aquí: [informe.md](informe.md)  
 📰 Pots veure la guía aquí: [guia.md](guia.md)  
-📍 [Tornar a la pàgina del projecte](../README.md)
+📍 [Tornar a la pàgina del projecte](../../README.md)
