@@ -5,7 +5,7 @@ Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les cont
 
 ---
 
-**Accés i inici de sessió a la web**
+**👉 Accés i inici de sessió a la web**
 
 1. **Accés a l’eina:**
    - Obriu el navegador i aneu a [Bitwarden Web](https://vault.bitwarden.com).
@@ -25,21 +25,21 @@ Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les cont
 
 ---
 
-**Funcionament amb la web i opcions addicionals**
+**🌐 Funcionament amb la web i opcions addicionals**
 
 Des de la interface web, podeu:
 
 - **Afegir noves credencials:** cliqueu a "Afegeix un element" i trieu "Inici de sessió". Ompliu els camps amb la URL, usuari i contrasenya, que podeu generar a la mateixa eina. [Imatge de suport](img/crearIniciSessio.png)
 - **Editar o eliminar credencials:** simplement seleccionant l’entrada i fent clic a editar o eliminar. [Imatge de suport](img/modificar_credencials.png)
 
-**Generació de contrasenyes segures**
+**🔑 Generació de contrasenyes segures**
 
 - Des del web, cliqueu a "Generador de contrasenyes".
 - Configureu la longitud i els paràmetres (majúscules, minúscules, números i caràcters especials).
 - Copieu la contrasenya i deseu-la dins la vostra credencial.
 - [Imatge de suport](img/generador_contrasenya.png)
 
-**Afegir credencials i emplenar automàticament**
+**🎰 Afegir credencials i emplenar automàticament**
 
 - A l’extensió del navegador, quan visitis una pàgina de login, Bitwarden proposarà emplenar automàticament la informació.
 - També podeu crear, veure i copiar credencials des de la interfície web si cal.
@@ -56,7 +56,7 @@ Des de la interface web, podeu:
 
 ---
 
-**Gestió de Còpies de Seguretat (Backup)**
+**🛟 Gestió de Còpies de Seguretat (Backup)**
 
 1. **Exportació de dades:**
    - A la web, entreu a "Configuració" > "Exportar bóveda".
