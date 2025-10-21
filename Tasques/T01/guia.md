@@ -1,4 +1,4 @@
-# Fase 2: Guia d'Ús Tècnica de Bitwarden per a l'Equip Tècnic
+<img width="670" height="536" alt="image" src="https://github.com/user-attachments/assets/076334b6-1898-4f05-95c8-7bee5be637ee" /># Fase 2: Guia d'Ús Tècnica de Bitwarden per a l'Equip Tècnic
 
 **Introducció**
 Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les contrasenyes de manera segura utilitzant la versió web de Bitwarden. Aquesta eina te complements com extensions web i també pot ser usada des d'aplicacions d'escriptori.
@@ -30,7 +30,24 @@ Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les cont
 Des de la interface web, podeu:
 
 - **Afegir noves credencials:** cliqueu a "Afegeix un element" i trieu "Inici de sessió". Ompliu els camps amb la URL, usuari i contrasenya, que podeu generar a la mateixa eina.
+
+<div align=center>
+  <img
+    src="img/crearIniciSessio.png"
+    alt="Crear credencials"
+    width="600"
+    height="600" />
+</div>
+
 - **Editar o eliminar credencials:** simplement seleccionant l’entrada i fent clic a editar o eliminar.
+
+<div align=center>
+  <img
+    src="img/modificar_credencials.png"
+    alt="Crear credencials"
+    width="600"
+    height="600" />
+</div>
 
 **Generació de contrasenyes segures**
 
