@@ -69,7 +69,7 @@ Benvinguts a EverPia 2: “Sobreviure en una empresa IT” El foc ja està encè
 
 # Tasques
 
-[Tasca01](Tasca01/README.md)
+[Tasca01](Tasques/T01/README.md)
 
 # Carpetes Personals
 
