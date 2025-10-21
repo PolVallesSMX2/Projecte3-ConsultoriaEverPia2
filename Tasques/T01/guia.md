@@ -37,12 +37,13 @@ Des de la interface web, podeu:
 - Des del web, cliqueu a "Generador de contrasenyes".
 - Configureu la longitud i els paràmetres (majúscules, minúscules, números i caràcters especials).
 - Copieu la contrasenya i deseu-la dins la vostra credencial.
-- [Imatge de suport](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T01/img/generador_contrasenya.png)
+- [Imatge de suport](img/generador_contrasenya.png)
 
 **Afegir credencials i emplenar automàticament**
 
 - A l’extensió del navegador, quan visitis una pàgina de login, Bitwarden proposarà emplenar automàticament la informació.
 - També podeu crear, veure i copiar credencials des de la interfície web si cal.
+- [Imatge de suport](img/modificar_credencials.png)
 
 <br>
 <div align=center>
