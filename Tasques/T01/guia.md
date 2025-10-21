@@ -1,4 +1,4 @@
-<img width="670" height="536" alt="image" src="https://github.com/user-attachments/assets/076334b6-1898-4f05-95c8-7bee5be637ee" /># Fase 2: Guia d'Ús Tècnica de Bitwarden per a l'Equip Tècnic
+# Fase 2: Guia d'Ús Tècnica de Bitwarden per a l'Equip Tècnic
 
 **Introducció**
 Aquesta guia està dissenyada per a que l'equip tècnic pugui gestionar les contrasenyes de manera segura utilitzant la versió web de Bitwarden. Aquesta eina te complements com extensions web i també pot ser usada des d'aplicacions d'escriptori.
