@@ -7,13 +7,13 @@ Autor: Pol Valles Esteban
   <p><i>En aquesta guía aprendrem a com instal·lar i configurar OpenLDAP</i></p>
   <p><i>En el nostre cas crearem una nova màquina virtual Ubuntu Server, un cop creada i configurada i estiguem a la terminal seguirem aquests passos.</i></p>
 </div>
-<br><br>
+<br>
 
-<img align=center>
-  <src img=img/LDAP.png alt=Imagen LDAP></src>
-</img>
+<div align=center>
+  <img src="img/LDAP.png" width="700px" />
+</div>
 
-## Contingut
+## 📰 Contingut
 
 1. Comprovar el nom de servidor i domini i la xarxa  
 2. Instal·lació del servei i les seves utilitats  
@@ -23,13 +23,13 @@ Autor: Pol Valles Esteban
 
 ---
 
-## Introducció
+## 👉 Introducció
 En aquesta guia aprendrem a com instal·lar i configurar OpenLDAP.  
 Crearem una nova màquina virtual Ubuntu Server i seguirem aquests passos des de la terminal.
 
 ---
 
-## 1. Comprovar el nom de servidor i domini i la xarxa
+## 1. 🌐 Comprovar el nom de servidor i domini i la xarxa
 
 Editem l'arxiu `/etc/hosts`:  
 `sudo nano /etc/hosts`
@@ -49,7 +49,7 @@ Revisar configuració d'adaptadors de xarxa (adaptador1: NAT o pont, adaptador2:
 
 ---
 
-## 2. Instal·lació del servei i les seves utilitats
+## 2. 🔛 Instal·lació del servei i les seves utilitats
 
 Instal·lem el servidor LDAP i les utilitats:
 `sudo apt install slapd lapd ldap-utils -y`
@@ -77,7 +77,7 @@ Revisem els canvis amb:
 
 ---
 
-## 3. Tasques d’implementació i configuració del servidor LDAP
+## 3. ⚖️ Tasques d’implementació i configuració del servidor LDAP
 
 Creem Unitat Organizativa (OU) amb un fitxer `.ldif`:  
 ```sudo nano OU_users.ldif```
@@ -109,7 +109,7 @@ Per eliminar un OU:
 
 ---
 
-## 4. Implementació del gestor d’usuaris de LDAP → LAM
+## 4. 🔐 Implementació del gestor d’usuaris de LDAP → LAM
 
 Actualitzem el sistema:
 `sudo apt update && sudo apt upgrade`
@@ -119,7 +119,7 @@ Instalem LDAP Account Manager (LAM):
 
 ---
 
-## 5. Gestió i Administració (LAM)
+## 5. 🚨 Gestió i Administració (LAM)
 
 Accedir al gestor gràfic des de la màquina física amb l'URL:
 
