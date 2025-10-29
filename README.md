@@ -82,3 +82,9 @@ Benvinguts a EverPia 2: “Sobreviure en una empresa IT” El foc ja està encè
 # Carpetes Personals
 
 [Drive personal del projecte](https://drive.google.com/drive/folders/1-460mOjZEd4gmObh-AyApSnUZJARfQWx?usp=sharing)
+
+
+<div align=rigth>
+ <p>HTML</p>
+ <p>Markdown</p>
+</div>
