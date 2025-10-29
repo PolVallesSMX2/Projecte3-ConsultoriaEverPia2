@@ -74,3 +74,8 @@ Aquesta adreça IP està associada a diversos noms de domini.
 Això sol passar en servidors que donen servei a múltiples dominis o subdominis dins d’una mateixa organització, com en aquest cas la *UPC* (Universitat Politècnica de Catalunya).
 
 ---
+
+<div>
+  <span>📝 </span><a href="README.md">Tornar a la tasca</a><br>
+  <span>📍 </span><a href="../../../README.md">Tornar a la pàgina del projecte</a>
+</div>
