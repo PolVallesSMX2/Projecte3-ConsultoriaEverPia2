@@ -85,6 +85,6 @@ Benvinguts a EverPia 2: “Sobreviure en una empresa IT” El foc ja està encè
 
 
 <div align=rigth>
- <p>HTML</p>
- <p>Markdown</p>
+  <p>HTML</p>
+  <p>Markdown</p>
 </div>
