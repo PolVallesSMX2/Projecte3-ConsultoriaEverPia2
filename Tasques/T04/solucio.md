@@ -187,8 +187,7 @@ Crear usuaris:
   <p>Document escrit per Pol Vallés</p>
 </div>
 
-
-
+<br>
 <div align=center>
   <span>📝 </span><a href="README.md">Tornar a la tasca</a><br>
   <span>📍 </span><a href="../../../README.md">Tornar a la pàgina del projecte</a>
