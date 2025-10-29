@@ -186,3 +186,6 @@ Crear usuaris:
   <p><b>Fi de la guía</b></p>
   <p>Document escrit per Pol Vallés</p>
 </div>
+
+🔙 [Tornar a la tasca](README.md)  
+📍 [Tornar a la pàgina del projecte](../../README.md)
