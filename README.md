@@ -69,15 +69,15 @@ Benvinguts a EverPia 2: “Sobreviure en una empresa IT” El foc ja està encè
 
 # Tasques
 
-[Tasca00](Tasques/T00/README.md)
-[Tasca01](Tasques/T01/README.md)
-[Tasca02](Tasques/T02/README.md)
-[Tasca03](Tasques/T03/README.md)
-[Tasca04](Tasques/T04/README.md)
-[Tasca05](Tasques/T05/README.md)
-[Tasca06](Tasques/T06/README.md)
-[Tasca07](Tasques/T07/README.md)
-[Tasca08](Tasques/T08/README.md)
+[📜 Tasca00](Tasques/T00/README.md)  
+[📜 Tasca01](Tasques/T01/README.md)  
+[📜 Tasca02](Tasques/T02/README.md)  
+[📜 Tasca03](Tasques/T03/README.md)  
+[📜 Tasca04](Tasques/T04/README.md)  
+[📜 Tasca05](Tasques/T05/README.md)  
+[📜 Tasca06](Tasques/T06/README.md)  
+[📜 Tasca07](Tasques/T07/README.md)  
+[📜 Tasca08](Tasques/T08/README.md)  
 
 # Carpetes Personals
 
