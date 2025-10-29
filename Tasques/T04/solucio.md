@@ -34,7 +34,6 @@ Crearem una nova màquina virtual Ubuntu Server i seguirem aquests passos des de
 Editem l'arxiu `/etc/hosts`:  
 `sudo nano /etc/hosts`
 
-text
 Configurarem el nom del domini.
 
 Per canviar el nom del servidor:
