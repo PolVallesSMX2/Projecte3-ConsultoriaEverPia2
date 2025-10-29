@@ -192,3 +192,10 @@ Crear usuaris:
   <span>📝 </span><a href="README.md">Tornar a la tasca</a><br>
   <span>📍 </span><a href="../../../README.md">Tornar a la pàgina del projecte</a>
 </div>
+
+<br><br>
+<div align=right>
+  <p>HTML</p>
+  <p>Markdown</p>
+</div>
+
