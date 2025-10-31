@@ -19,5 +19,11 @@ Material de classe (disponible al Moodle)
 
 
 ## Solució
-📰 Pots veure la solució aquí: [solucio.md](solucio.md)  
+📰 Pots veure la solució general aquí: [solucio.md](solucio.md)  
+👉 Requeriments d'Infraestructura Inicial aquí: [requeriments.md](requeriments.md)  
+👉 Tasques d'Implementació i Configuració del Servidor LDAP aquí [implementacio.md](implementacio.md)  
+- 👉 1. Instal·lació i Configuració Base d'OpenLDAP aquí [instal·lacio.md](instal·lacio.md)
+- 👉 2. Gestió i Administració (LAM) [gestio.md](gestio.md)
+👉 Integració de Client (Client Ubuntu Desktop) [integracio.md](integracio.md)
+📜 Acceptació del Plec de Condicions Tècniques (PCC) - EverPia [aceptacio_plec](aceptacio_plec.md)
 📍 [Tornar a la pàgina del projecte](../../README.md)
