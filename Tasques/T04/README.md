@@ -19,5 +19,5 @@ Material de classe (disponible al Moodle)
 
 
 ## Solució
-📰 Pots veure la solució aquí: [informe.md](solucio.md)  
+📰 Pots veure la solució aquí: [solucio.md](solucio.md)  
 📍 [Tornar a la pàgina del projecte](../../README.md)
