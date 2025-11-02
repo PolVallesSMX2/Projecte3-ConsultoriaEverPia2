@@ -98,6 +98,8 @@ Aquesta comanda mostra l'ip del domini i el servidor DNS que ha contestat.
 La comanda `nslookup -type=NS tecnocampus.cat` ens permetra veure quines son les IP del servidor de noms de tecnocampus.cat
 Seguidamente en nslookup haurem d'afegir el paràmetre **server**
 ```
+nslookup
+set type=A
 server [IP que ens ha donat el resultat anterior]
 tecnocampus.cat
 ```
