@@ -1,4 +1,4 @@
-# FASE 2: Part Pràctica
+# FASE 2: Part Pràctica | GUÍA
 
 ## A. Consulta bàsica de registre A
 
