@@ -1,9 +1,12 @@
 # FASE 2: Part Pràctica | GUÍA
 
-## A. Consulta bàsica de registre A
+## 1. Comandes avançades amb dig
+### A. Consulta bàsica de registre A
 
 **Comanda:**
 `dig xtec.cat`
+
+![ImgA](img/a.png)
 
 **Resultat:**
 - IP: `83.247.151.214`  
@@ -13,10 +16,12 @@
 
 ---
 
-## B. Consulta de servidors de noms (NS)
+### B. Consulta de servidors de noms (NS)
 
 **Comanda:**
 `dig tecnocampus.cat NS`
+
+![ImgB](img/b.png)
 
 **Resultat:**
 - TTL (Time To Live): `1686`  
@@ -30,12 +35,12 @@ Són els que contenen la informació oficial del domini i gestionen les seves co
 
 ---
 
-## C. Consulta SOA (Start of Authority)
+### C. Consulta SOA (Start of Authority)
 
 **Comanda:**
 `dig escolapia.cat SOA`
 
-text
+![ImgC](img/c.png)
 
 **Resultat:**
 - TTL (Time To Live): `300`  
@@ -47,10 +52,12 @@ text
 
 ---
 
-## D. Consulta de la resolució inversa (IP a nom de domini)
+### D. Consulta de la resolució inversa (IP a nom de domini)
 
 **Comanda:**
 `dig -x 147.83.2.135`
+
+![ImgD](img/d.png)
 
 **Resultat:**
 
@@ -72,6 +79,32 @@ Apareixen els resultats PTR, que vinculen aquesta IP amb diversos noms de domini
 **Explicació:**
 Aquesta adreça IP està associada a diversos noms de domini.  
 Això sol passar en servidors que donen servei a múltiples dominis o subdominis dins d’una mateixa organització, com en aquest cas la *UPC* (Universitat Politècnica de Catalunya).
+
+## 2. Comandes de nslookup (multiplataforma)
+
+### A. Comanda consultes NO autoritatives
+```
+nslookup
+set type=A
+tecnocampus.cat
+```
+
+![Img2A](img/2a.png)
+
+Aquesta comanda mostra l'ip del domini i el servidor DNS que ha contestat.
+
+### B. Comanda consulta autoritativa
+
+La comanda `nslookup -type=NS tecnocampus.cat` ens permetra veure quines son les IP del servidor de noms de tecnocampus.cat
+Seguidamente en nslookup haurem d'afegir el paràmetre **server**
+```
+server [IP que ens ha donat el resultat anterior]
+tecnocampus.cat
+```
+
+![Img2B](img/2b.png)
+
+Ara la resposta hauría de ser autoritativa.
 
 ---
 
