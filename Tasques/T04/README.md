@@ -25,7 +25,7 @@ Material de classe (disponible al Moodle)
 - 👉 [1. Instal·lació i Configuració Base d'OpenLDAP](Instal·lació%20i%20Configuració%20Base%20d'OpenLDAP.md)
 - 👉 [2. Gestió i Administració (LAM)](Gestió%20i%20Administració%20(LAM).md)
 
-👉 [Integració de Client (Client Ubuntu Desktop)](Integració-de-Client-(Client-Ubuntu-Desktop).md)
+👉 [Integració de Client (Client Ubuntu Desktop)]([Integració-de-Client-(Client-Ubuntu-Desktop).md](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques/Integraci%C3%B3%20de%20Client%20(Client%20Ubuntu%20Desktop).md))
 <!--📜 Acceptació del Plec de Condicions Tècniques (PCC) - EverPia [aceptacio_plec](aceptacio_plec.md)  -->
 
 📍 [Tornar a la pàgina del projecte](../../README.md)
