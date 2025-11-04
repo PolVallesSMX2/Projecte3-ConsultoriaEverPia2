@@ -7,3 +7,7 @@
 | T.CLI.05 | Configuració del Client.            | Modificar els arxius de configuració del client necessaris. S'han de mostrarclarament els canvis realitzatsen el codi dels arxius.                                                           | ![5.5](../img/5.5.1.png)  ![5.5.2](../img/5.5.2.png)  ![5.5.3](../img/5.5.3.png)
 | T.CLI.06 | Comprovació del Sistema.            | Reiniciar els serveis i verificar amb la comandagetent passwdque els usuaris del directori són visibles localment.                                                                           | ![5.6](../img/5.6.png)
 | T.CLI.07 | Prova d'Accés Final.                | Reiniciar el client i iniciar sessió amb l'usuari tech01. Es requereix una captura de pantalla que demostri l'accés correcte i la creació automàtica de la carpeta personal de l'usuari.     | ![5.7](../img/5.7.1.png)  ![5.7.2](../img/5.7.2.png)  ![5.7.3](../img/5.7.3.png)
+
+
+👉 [Torna al Plec de Condicions Tècniques](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/tree/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques)  
+📍 [Torna a la pàgina de la tasca](../)
