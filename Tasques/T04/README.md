@@ -20,10 +20,10 @@ Material de classe (disponible al Moodle)
 
 ## Solució
 📰 Pots veure la solució general aquí: [solucio.md](solucio.md)  
-👉 [Requeriments d'Infraestructura Inicial](Requeriments%20d'Infraestructura%20Inicial.md)  
+👉 [Requeriments d'Infraestructura Inicial](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques/Requeriments%20d'Infraestructura%20Inicial.md)  
 👉 Tasques d'Implementació i Configuració del Servidor LDAP  
-- 👉 [1. Instal·lació i Configuració Base d'OpenLDAP](Instal·lació%20i%20Configuració%20Base%20d'OpenLDAP.md)
-- 👉 [2. Gestió i Administració (LAM)](Gestió%20i%20Administració%20(LAM).md)
+- 👉 [1. Instal·lació i Configuració Base d'OpenLDAP](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques/Instal%C2%B7laci%C3%B3%20i%20Configuraci%C3%B3%20Base%20d'OpenLDAP.md)
+- 👉 [2. Gestió i Administració (LAM)](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques/Gesti%C3%B3%20i%20Administraci%C3%B3%20(LAM).md)
 
 👉 [Integració de Client (Client Ubuntu Desktop)](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques/Integraci%C3%B3%20de%20Client%20(Client%20Ubuntu%20Desktop).md)
 <!--📜 Acceptació del Plec de Condicions Tècniques (PCC) - EverPia [aceptacio_plec](aceptacio_plec.md)  -->
