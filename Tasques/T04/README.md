@@ -21,7 +21,8 @@ Material de classe (disponible al Moodle)
 ## Solució
 📰 Pots veure la guia general aquí: [guia.md](guia.md)  
 👉 [Requeriments d'Infraestructura Inicial](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques/Requeriments%20d'Infraestructura%20Inicial.md)  
-👉 Tasques d'Implementació i Configuració del Servidor LDAP  
+
+👉 Tasques d'Implementació i Configuració del Servidor LDAP
 - 👉 [1. Instal·lació i Configuració Base d'OpenLDAP](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques/Instal%C2%B7laci%C3%B3%20i%20Configuraci%C3%B3%20Base%20d'OpenLDAP.md)
 - 👉 [2. Gestió i Administració (LAM)](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques/Gesti%C3%B3%20i%20Administraci%C3%B3%20(LAM).md)
 
