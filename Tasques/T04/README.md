@@ -20,6 +20,7 @@ Material de classe (disponible al Moodle)
 
 ## Solució
 📰 Pots veure la guia general aquí: [guia.md](guia.md)  
+
 👉 [Requeriments d'Infraestructura Inicial](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/Tasques/T04/Plec%20de%20Condicions%20T%C3%A8cniques/Requeriments%20d'Infraestructura%20Inicial.md)  
 
 👉 Tasques d'Implementació i Configuració del Servidor LDAP
