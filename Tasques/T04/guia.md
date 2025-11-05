@@ -97,3 +97,6 @@
   getent passwd
   ```
 - Reinicia el client i inicia sessió amb l’usuari `tech01`, pren capturas de pantalla.
+
+🔙 [Tornar a la tasca](README.md)  
+📍 [Tornar a la pàgina del projecte](../../README.md)
