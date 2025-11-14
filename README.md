@@ -67,31 +67,19 @@ A més, EverPia segueix sent una de les millors empreses on començar:on cada pr
 Benvinguts a EverPia 2: “Sobreviure en una empresa IT” El foc ja està encès. Ara és el vostre torn d’agafar l’extintor… i el teclat.
 
 
-# Tasques
+# Tasques i Productes
 
-<div>
-  <span>📜 </span><a href="Tasques/T00/README.md">Tasca00</a><br>
-  <span>📜 </span><a href="Tasques/T01/README.md">Tasca01</a><br>
-  <span>📜 </span><a href="Tasques/T02/README.md">Tasca02</a><br>
-  <span>📜 </span><a href="Tasques/T03/README.md">Tasca03</a><br>
-  <span>📜 </span><a href="Tasques/T04/README.md">Tasca04</a><br>
-  <span>📜 </span><a href="Tasques/T05/README.md">Tasca05</a><br>
-  <span>📜 </span><a href="Tasques/T06/README.md">Tasca06</a><br>
-  <span>📜 </span><a href="Tasques/T07/README.md">Tasca07</a><br>
-  <span>📜 </span><a href="Tasques/T08/README.md">Tasca08</a><br>
-</div>
-
-| Tasques   | Productes |
-| --------- | --------- |
-| [📜Tasca00](Tasques/T00/README.md) | [📜Producta01](Productes/P01/README.md) |
-| [📜Tasca01](Tasques/T01/README.md) |           |
-| [📜Tasca02](Tasques/T02/README.md) |           |
-| [📜Tasca03](Tasques/T03/README.md) |           |
-| [📜Tasca04](Tasques/T04/README.md) |           |
-| [📜Tasca05](Tasques/T05/README.md) |           |
-| [📜Tasca06](Tasques/T06/README.md) |           |
-| [📜Tasca07](Tasques/T07/README.md) |           |
-| [📜Tasca08](Tasques/T08/README.md) |           |
+| Tasques                                              | Productes                                    |
+|------------------------------------------------------|-----------------------------------------------|
+| [📜 Tasca00](Tasques/T00/README.md)                  | [📦 Producte01](Productes/P01/README.md)      |
+| [📜 Tasca01](Tasques/T01/README.md)                  | [📦 Producte02](Productes/P02/README.md)      |
+| [📜 Tasca02](Tasques/T02/README.md)                  | [📦 Producte03](Productes/P03/README.md)      |
+| [📜 Tasca03](Tasques/T03/README.md)                  | [📦 Producte04](Productes/P04/README.md)      |
+| [📜 Tasca04](Tasques/T04/README.md)                  | [📦 Producte05](Productes/P05/README.md)      |
+| [📜 Tasca05](Tasques/T05/README.md)                  | [📦 Producte06](Productes/P06/README.md)      |
+| [📜 Tasca06](Tasques/T06/README.md)                  | [📦 Producte07](Productes/P07/README.md)      |
+| [📜 Tasca07](Tasques/T07/README.md)                  |      |
+| [📜 Tasca08](Tasques/T08/README.md)                  |      |
 
 # Carpetes Personals
 
