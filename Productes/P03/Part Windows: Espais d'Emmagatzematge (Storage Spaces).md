@@ -17,6 +17,13 @@ A partir d’aquesta base, s’analitzen i documenten diversos tipus de configur
 
 ![captura](img/1.png)
 
+![captura](img/2.png)
+
+![captura](img/3.png)
+
+![captura](img/4.png)
+
+![captura](img/5.png)
 
 ### Administrar discos
 Seguidament administrarem els discos de 10 GB simulats 1,2 i 3 que prèviament hem creat. Usarem el següent disc de partició per els discos seleccionats “MBR (Registre d’arrencada mestre).
@@ -26,3 +33,25 @@ Seguidament administrarem els discos de 10 GB simulats 1,2 i 3 que prèviament h
 A continuació, es crea un nou espai d’emmagatzematge amb resiliència de paritat, afegint-hi una nova unitat VBOX HARDDISK de 10 GB per millorar la distribució de les dades dins del grup.
 Aquest tipus d’espai ofereix una major eficiència d’emmagatzematge en comparació amb el mirall, ja que només una part de la capacitat total es destina a la informació de paritat, mentre que la resta s’utilitza per a dades útils.
 És una opció adequada per a entorns on es prioritza la capacitat disponible sobre la velocitat d’escriptura.
+
+![captura](img/6.png)
+
+![captura](img/7.png)
+
+![captura](img/8.png)
+
+
+### Resiliència de mirall triple
+Un cop demostrada la configuració anterior, es desfà l’espai creat i se’n genera un de nou amb resiliència de mirall triple, utilitzant els tres discos de 10 GB.
+
+Avantatges respecte al mirroring doble:
+- Major nivell de protecció, ja que les dades es repliquen tres vegades.
+- Possibilitat de resistir la fallada simultània de fins a dos discos sense pèrdua d’informació.
+- Millor seguretat en entorns on la disponibilitat i la integritat de les dades són crítiques.
+
+![captura](img/9.png)
+
+![captura](img/10.png)
+
+![captura](img/11.png)
+
