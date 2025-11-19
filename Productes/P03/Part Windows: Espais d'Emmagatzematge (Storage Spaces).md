@@ -55,3 +55,6 @@ Avantatges respecte al mirroring doble:
 
 ![captura](img/11.png)
 
+
+👉 [Tornar a la pàguina de la tasca](README.md)
+🔥 [Tornar a la pàguina del projecte](../../README.md)
