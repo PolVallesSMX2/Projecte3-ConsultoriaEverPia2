@@ -86,7 +86,7 @@ touch /mnt/lv01/file02
 touch /mnt/lv01/file03
 ```
 
-![capt11](img/capt1q1.png) 
+![capt11](img/capt11.png) 
 
 Seguidament crearem la instantània (snapshot) amb la comanda lvcreate
 `lvcreate -L 100M -s -n copialv01 /dev/volgrup/lv01`
